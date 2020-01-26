@@ -1,0 +1,11 @@
+body{
+background:url(img1/1.png)}
+
+a:hover { color: black; font-weight:bold;
+font-size:100%} 
+
+a{color: brown;}
+
+a:visited{color:red;}
+
+p{font-size:15pt;}
